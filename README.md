@@ -1,6 +1,6 @@
 # Rust Claude Code Skills
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20502952.svg)](https://doi.org/10.5281/zenodo.20502952)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20502951.svg)](https://doi.org/10.5281/zenodo.20502951)
 
 Claude Code skills for Rust language development, based on official Rust documentation.
 
